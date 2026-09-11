@@ -261,6 +261,32 @@ Customer-Issue-Support-Ticket-Analyzer/
 
 ---
 
+## 👩‍💻 Author
+
+**Shanthini**
+
+**Aspiring Data Analyst**
+
+**Skills:** Python | Lists & Dictionaries | Sets | Loops | Functions | String Operations | Data Cleaning | Data Analysis
+
+---
+
+## 📄 License
+
+This project is created for educational and assignment purposes only.
+
+---
+
+## 🙏 Acknowledgments
+
+I would like to thank:
+
+- **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
+- **Python Documentation** for valuable references and support in understanding Python programming, string operations, functions, and data structures.
+- **Google Colab** for providing an interactive environment to practice and execute Python code.
+
+---
+
 ## ✅ Conclusion
 
 The **Customer Issue & Support Ticket Analyzer** demonstrates how Python can be applied to a real-world customer support data analysis problem.
