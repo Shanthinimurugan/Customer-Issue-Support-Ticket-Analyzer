@@ -253,9 +253,9 @@ Keyword Searching
 ## 📂 Project Structure
 
 ```text
-Customer-Issue-Support-Ticket-Analyzer/
+Customer-Issue-&-Support-Ticket-Analyzer/
 │
-├── Customer_Support_Ticket_Analyzer.ipynb
+├── Customer_Issue_&_Support_Ticket_Analyzer.ipynb
 └── README.md
 ```
 
