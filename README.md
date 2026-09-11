@@ -261,6 +261,16 @@ Customer-Issue-Support-Ticket-Analyzer/
 
 ---
 
+## ✅ Conclusion
+
+The **Customer Issue & Support Ticket Analyzer** demonstrates how Python can be applied to a real-world customer support data analysis problem.
+
+The project successfully manages customer tickets, validates new ticket information, cleans issue descriptions, analyzes keywords and priorities, identifies the longest issue descriptions, and extracts unique words.
+
+Overall, this project provides practical experience in using fundamental Python concepts for **data cleaning, text analysis, and extracting meaningful insights from customer support data**.
+
+---
+
 ## 👩‍💻 Author
 
 **Shanthini**
@@ -285,13 +295,5 @@ I would like to thank:
 - **Python Documentation** for valuable references and support in understanding Python programming, string operations, functions, and data structures.
 - **Google Colab** for providing an interactive environment to practice and execute Python code.
 
----
 
-## ✅ Conclusion
-
-The **Customer Issue & Support Ticket Analyzer** demonstrates how Python can be applied to a real-world customer support data analysis problem.
-
-The project successfully manages customer tickets, validates new ticket information, cleans issue descriptions, analyzes keywords and priorities, identifies the longest issue descriptions, and extracts unique words.
-
-Overall, this project provides practical experience in using fundamental Python concepts for **data cleaning, text analysis, and extracting meaningful insights from customer support data**.
 
